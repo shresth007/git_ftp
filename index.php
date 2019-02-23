@@ -17,12 +17,12 @@
 <![endif]-->
 </head>
 <body>
-<div id="preloader">
-  <div id="status">&nbsp;</div>
-</div>
 <?php
 echo "My first PHP script!";
 ?>
+<div id="preloader">
+  <div id="status">&nbsp;</div>
+</div>
 <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
 <header id="header">
   <nav class="navbar navbar-default navbar-static-top" role="navigation">
